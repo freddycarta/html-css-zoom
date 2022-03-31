@@ -3,15 +3,17 @@
     padding: 0;
 
 }
-body { background-color: black;}
+body { background-color: black;}7
 
 header {
     background-color: #111111;
     color: white;
+
 }
 .headerleft {
     display: flex;
     color: white;
+    padding: 2px;
 }
 .headerright {
     display: flex ;
@@ -31,4 +33,5 @@ header {
     height: 20vh;
     width: 30vh;
     background-color: blue;    
+    object-fit: cover;
 }
