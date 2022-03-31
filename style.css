@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+header {
+    background-color: #111111;
+    color: white;
+}
+.headerleft {
+    display: flex;
+}
+.headerright {
+    display: flex ;
+    justify-content: flex-end;
+}
